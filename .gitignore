@@ -24,3 +24,5 @@ yarn-error.log*
 
 # python env
 /dar
+
+/react-frontend/node_modules
